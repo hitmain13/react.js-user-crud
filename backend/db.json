@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "name": "Fabiãozinho",
+      "email": "fabiaozito@ima.it",
+      "id": 3
+    },
+    {
+      "name": "Outro teste",
+      "email": "Testenovamente@email.com",
+      "id": 10
+    },
+    {
+      "name": "Nome alterado",
+      "email": "emailalterado@email.com.br",
+      "id": 11
+    },
+    {
+      "name": "Ciclano de Tal",
+      "email": "ciclano@empresa.com.br",
+      "id": 12
+    }
+  ]
+}
